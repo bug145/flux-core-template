@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
+    "api": "node ./node_modules/flux-ui-kit/api",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
